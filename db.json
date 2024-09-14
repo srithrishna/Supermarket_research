@@ -1,0 +1,308 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mobiles",
+      "category": "Apple",
+      "price": 75000,
+      "quantity": 50,
+      "path": "/images/apple.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Mobiles",
+      "category": "Samsung",
+      "price": 25000,
+      "quantity": 200,
+      "path": "/images/samsung.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mobiles",
+      "category": "Vivo",
+      "price": 15000,
+      "quantity": 150,
+      "path": "/images/vivo.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Laptop",
+      "category": "Apple",
+      "price": 130000,
+      "quantity": 150,
+      "path": "/images/apple_lap.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "category": "Dell",
+      "price": 85000,
+      "quantity": 300,
+      "path": "/images/dell.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Laptop",
+      "category": "Hp",
+      "price": 60000,
+      "quantity": 200,
+      "path": "/images/hp.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Adidas",
+      "category": "Footwear",
+      "price": 2000,
+      "quantity": 10,
+      "path": "/images/adidas.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Nike",
+      "category": "Footwear",
+      "price": 3000,
+      "quantity": 20,
+      "path": "/images/nike.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bata",
+      "category": "Footwear",
+      "price": 500,
+      "quantity": 30,
+      "path": "/images/bata.png"
+    },
+    {
+      "id": 10,
+      "name": "Apple",
+      "category": "Fruits",
+      "price": 80,
+      "quantity": 100,
+      "path": "/images/apple.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Banana",
+      "category": "Fruits",
+      "price": 20,
+      "quantity": 100,
+      "path": "/images/banana.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Orange",
+      "category": "Fruits",
+      "price": 40,
+      "quantity": 120,
+      "path": "/images/orange.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Onion",
+      "category": "Vegetables",
+      "price": 50,
+      "quantity": 100,
+      "path": "/images/onion.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Potato",
+      "category": "Vegetables",
+      "price": 30,
+      "quantity": 110,
+      "path": "/images/potato.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Tomato",
+      "category": "Vegetables",
+      "price": 40,
+      "quantity": 100,
+      "path": "/images/tomato.png"
+    },
+    {
+      "id": 16,
+      "name": "Colgate",
+      "category": "Brush",
+      "price": 20,
+      "quantity": 100,
+      "path": "/images/colgate.png"
+    },
+    {
+      "id": 17,
+      "name": "Sensodyne",
+      "category": "Brush",
+      "price": 25,
+      "quantity": 100,
+      "path": "/images/sensodyne.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Indulekha",
+      "category": "Hairoil",
+      "price": 250,
+      "quantity": 50,
+      "path": "/images/indulekha.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Vatika",
+      "category": "Hairoil",
+      "price": 200,
+      "quantity": 30,
+      "path": "/images/vatika.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Vilvah",
+      "category": "Hairoil",
+      "price": 350,
+      "quantity": 150,
+      "path": "/images/vilvah.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Closeup",
+      "category": "Toothpaste",
+      "price": 70,
+      "quantity": 150,
+      "path": "/images/closeup.jpeg"
+    },
+    {
+      "id": 22,
+      "name": "Colgate",
+      "category": "Toothpaste",
+      "price": 80,
+      "quantity": 100,
+      "path": "/images/colgate.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Sensodyne",
+      "category": "Toothpaste",
+      "price": 100,
+      "quantity": 70,
+      "path": "/images/sensodyne_paste.jpeg"
+    },
+    {
+      "id": 24,
+      "name": "Milk Bikies",
+      "category": "Biscuits",
+      "price": 10,
+      "quantity": 20,
+      "path": "/images/milkbikies.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "Marie Gold",
+      "category": "Biscuits",
+      "price": 20,
+      "quantity": 30,
+      "path": "/images/marie_gold.jpeg"
+    },
+    {
+      "id": 26,
+      "name": "Oreo",
+      "category": "Biscuits",
+      "price": 30,
+      "quantity": 20,
+      "path": "/images/oreo.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Gold Winner",
+      "category": "Cooking Oil",
+      "price": 100,
+      "quantity": 20,
+      "path": "/images/goldwinner.jpeg"
+    },
+    {
+      "id": 28,
+      "name": "Fortune",
+      "category": "Cooking Oil",
+      "price": 100,
+      "quantity": 25,
+      "path": "/images/fortune.jpeg"
+    },
+    {
+      "id": 29,
+      "name": "Saffola",
+      "category": "Cooking Oil",
+      "price": 130,
+      "quantity": 20,
+      "path": "/images/saffola.jpeg"
+    },
+    {
+      "id": 30,
+      "name": "Diary Milk",
+      "category": "Chocolates",
+      "price": 40,
+      "quantity": 50,
+      "path": "/images/diarymilk.jpeg"
+    },
+    {
+      "id": 31,
+      "name": "Munch",
+      "category": "Chocolates",
+      "price": 20,
+      "quantity": 80,
+      "path": "/images/munch.jpeg"
+    },
+    {
+      "id": 32,
+      "name": "KitKat",
+      "category": "Chocolates",
+      "price": 20,
+      "quantity": 60,
+      "path": "/images/kitkat.jpeg"
+    },
+    {
+      "id": 33,
+      "name": "Indian Gate",
+      "category": "Rice",
+      "price": 250,
+      "quantity": 25,
+      "path": "/images/Indiangate.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Daawat",
+      "category": "Rice",
+      "price": 200,
+      "quantity": 20,
+      "path": "/images/Daawat.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Kohinoor",
+      "category": "Rice",
+      "price": 300,
+      "quantity": 30,
+      "path": "/images/Kohinoor.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Cavins Curd",
+      "category": "Curd",
+      "price": 30,
+      "quantity": 50,
+      "path": "/images/Cavins.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Nestle Curd",
+      "category": "Curd",
+      "price": 30,
+      "quantity": 60,
+      "path": "/images/Nestle.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Aavin Milk",
+      "category": "Milk",
+      "price": 25,
+      "quantity": 75,
+      "path": "/images/Aavin.jpg"
+    }
+  ]
+}
